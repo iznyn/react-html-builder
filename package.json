@@ -1,6 +1,6 @@
 {
-  "name": "test-require-app",
-  "version": "0.0.0",
+  "name": "react-html-builder",
+  "version": "0.0.1",
   "private": true,
   "scripts": {},
   "engines": {
