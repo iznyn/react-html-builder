@@ -1,0 +1,22 @@
+{
+  "name": "test-require-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+    "classnames": "^1.1.4",
+    "node-jsx": "^0.11.0",
+    "react": "^0.11.2",
+    "reflux": "^0.1.13"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.7.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-react": "^0.12.2",
+    "react-tools": "^0.11.2"
+  }
+}
